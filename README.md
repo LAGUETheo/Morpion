@@ -1,4 +1,4 @@
-# ❌⭕ Morpion - Jeu du Tic-Tac-Toe en C++
+# ❌⭕ Morpion - Jeu en C++
 
 Ce projet est une implémentation console du jeu du **Morpion** en **C++**
 
